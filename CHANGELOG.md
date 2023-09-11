@@ -1,5 +1,12 @@
 # Changelog
 
+# [1.2.0](https://github.com/jarodsmk/release-it-test/compare/1.1.3...1.2.0) (2023-09-11)
+
+
+### Features
+
+* Another feature ([9e79111](https://github.com/jarodsmk/release-it-test/commit/9e79111b2d8501ae8a03721a9470c5a6d87e4f13))
+
 ## [1.1.3](https://github.com/jarodsmk/release-it-test/compare/1.1.2...1.1.3) (2023-09-11)
 
 
