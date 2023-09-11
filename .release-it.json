@@ -7,5 +7,25 @@
     },
     "npm": {
         "publish": false
+    },
+    "plugins": {
+        "@release-it/conventional-changelog": {
+            "header": "# Changelog",
+            "preset": {
+                "name": "angular",
+                "types": [
+                    {
+                        "type": "feat",
+                        "section": "Features"
+                    },
+                    {
+                        "type": "fix",
+                        "section": "Bug Fixes"
+                    },
+                    {}
+                ]
+            },
+            "infile": "CHANGELOG.md"
+        }
     }
 }
