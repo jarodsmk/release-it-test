@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/jarodsmk/release-it-test#readme",
   "dependencies": {
+    "@release-it/conventional-changelog": "^7.0.1",
     "release-it": "^16.1.5"
   }
 }
