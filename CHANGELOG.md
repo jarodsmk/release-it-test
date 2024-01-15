@@ -1,5 +1,8 @@
 # Changelog
 
+* ci: pre (d9d08bb)
+* feat: pew (e658e74)
+
 # [1.3.0](https://github.com/jarodsmk/release-it-test/compare/1.2.1...1.3.0) (2024-01-15)
 
 
