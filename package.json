@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "release": "release-it --only-version"
+    "release": "release-it --preRelease --only-version"
   },
   "repository": {
     "type": "git",
@@ -23,7 +23,7 @@
   },
   "release-it": {
     "git": {
-      "commitMessage": "chore: release new version v${version}"
+      "commitMessage": "chore: release version v${version}"
     },
     "github": {
       "release": false
