@@ -1,5 +1,12 @@
 # Changelog
 
+# [1.6.0-0](https://github.com/jarodsmk/release-it-test/compare/1.5.0...1.6.0-0) (2024-01-15)
+
+
+### Features
+
+* feat ([e8dfff1](https://github.com/jarodsmk/release-it-test/commit/e8dfff12101eb13ec9d5835d44e2d61654f4ff4d))
+
 # [1.5.0](https://github.com/jarodsmk/release-it-test/compare/1.4.2...1.5.0) (2024-01-15)
 
 
