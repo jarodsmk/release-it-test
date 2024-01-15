@@ -1,5 +1,12 @@
 # Changelog
 
+# [1.5.0](https://github.com/jarodsmk/release-it-test/compare/1.4.2...1.5.0) (2024-01-15)
+
+
+### Features
+
+* new feat ([f04055d](https://github.com/jarodsmk/release-it-test/commit/f04055d5903f0e1a37093829cabbe525769a7d06))
+
 ## [1.4.2](https://github.com/jarodsmk/release-it-test/compare/1.4.1...1.4.2) (2024-01-15)
 
 * chore: pew (1de2fad)
