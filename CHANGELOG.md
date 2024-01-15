@@ -1,5 +1,12 @@
 # Changelog
 
+# [1.6.0-1](https://github.com/jarodsmk/release-it-test/compare/1.6.0-0...1.6.0-1) (2024-01-15)
+
+
+### Features
+
+* things ([aef2120](https://github.com/jarodsmk/release-it-test/commit/aef21201cec3b105a0fa27281453177d5adf91e5))
+
 # [1.6.0-0](https://github.com/jarodsmk/release-it-test/compare/1.5.0...1.6.0-0) (2024-01-15)
 
 
