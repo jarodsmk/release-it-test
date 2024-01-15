@@ -1,5 +1,7 @@
 # Changelog
 
+## [1.4.2](https://github.com/jarodsmk/release-it-test/compare/1.4.1...1.4.2) (2024-01-15)
+
 * chore: pew (1de2fad)
 
 * ci: pre (d9d08bb)
