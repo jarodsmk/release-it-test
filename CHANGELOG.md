@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/jarodsmk/release-it-test/compare/1.2.0...1.2.1) (2024-01-15)
+
+
+### Bug Fixes
+
+* made a small change ([2167c24](https://github.com/jarodsmk/release-it-test/commit/2167c2441c10e1151e4cc5c38a3cd89d6ab73366))
+
 # [1.2.0](https://github.com/jarodsmk/release-it-test/compare/1.1.3...1.2.0) (2023-09-11)
 
 
