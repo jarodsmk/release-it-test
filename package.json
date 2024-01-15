@@ -31,6 +31,9 @@
     "npm": {
       "publish": false
     },
+    "hooks": {
+      "after:release": "cp ./CHANGELOG.md ./CHANGELOG2.md"
+    },
     "plugins": {
       "@release-it/conventional-changelog": {
         "header": "# Changelog",
