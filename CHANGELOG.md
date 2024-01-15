@@ -1,5 +1,12 @@
 # Changelog
 
+# [1.3.0](https://github.com/jarodsmk/release-it-test/compare/1.2.1...1.3.0) (2024-01-15)
+
+
+### Features
+
+* feature ([52c327d](https://github.com/jarodsmk/release-it-test/commit/52c327d63f34bb1ef49d8b8a2efc94dc695e840d))
+
 ## [1.2.1](https://github.com/jarodsmk/release-it-test/compare/1.2.0...1.2.1) (2024-01-15)
 
 
