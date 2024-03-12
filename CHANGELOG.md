@@ -1,5 +1,18 @@
 # Changelog
 
+# [1.6.0-2](https://github.com/jarodsmk/release-it-test/compare/1.6.0-1...1.6.0-2) (2024-03-12)
+
+
+### Bug Fixes
+
+* **pew2:** things ([288e02f](https://github.com/jarodsmk/release-it-test/commit/288e02f44bd0062c8be63f6e2735384dce8c2c5c))
+
+
+### Features
+
+* **pew2:** things ([e727af2](https://github.com/jarodsmk/release-it-test/commit/e727af211e3dd0ff345d8dcd8502e43f6aefcb67))
+* **pew:** things ([4d91484](https://github.com/jarodsmk/release-it-test/commit/4d91484a0e60fa093d48f902cc2fb81a3119c240))
+
 # [1.6.0-1](https://github.com/jarodsmk/release-it-test/compare/1.6.0-0...1.6.0-1) (2024-01-15)
 
 
