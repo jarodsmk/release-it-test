@@ -1,5 +1,12 @@
 # Changelog
 
+# [1.6.0](https://github.com/jarodsmk/release-it-test/compare/1.6.0-2...1.6.0) (2024-03-12)
+
+
+### Features
+
+* **pew:** things ([0647f40](https://github.com/jarodsmk/release-it-test/commit/0647f4050a44f793c507a3e044851a2eceb0db4c))
+
 # [1.6.0-2](https://github.com/jarodsmk/release-it-test/compare/1.6.0-1...1.6.0-2) (2024-03-12)
 
 
